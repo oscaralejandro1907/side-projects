@@ -4,5 +4,6 @@
  
  # Interesting References:
  
- From the [Bookdown]https://bookdown.org:
+ From the https://bookdown.org:
+ 
   [R for Data Science](https://r4ds.had.co.nz).
